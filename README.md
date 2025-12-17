@@ -8,6 +8,7 @@ This project was created with the following objectives:
 ## ⚠️ Note
 The basic design and part of the logic come from a template/tutorial on youtube.  
 The project is currently undergoing analysis, customization, and continuous improvement.
+My native language is Spanish, so there will be commits in English and Spanish, so hehe.
 
 ## 👩‍💻 Author
 Developed by **Egla Avalos**  
